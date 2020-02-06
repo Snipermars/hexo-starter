@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_config.yml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_config.yml/themes/landscape" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/marusBlog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/marusBlog/themes/landscape" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/themes/landscape" vcs="Git" />
+  </component>
+</project>
